@@ -1,0 +1,24 @@
+{
+  "name": "ramdom-logs",
+  "version": "1.0.0",
+  "description": "ramdom messages on the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavgamer/ramdom-logs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lavgamer/ramdom-logs/issues"
+  },
+  "homepage": "https://github.com/lavgamer/ramdom-logs#readme",
+  "bin": {
+    "ramdom-logs": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
